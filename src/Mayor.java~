@@ -8,7 +8,6 @@
  *
  * @author shubham
  */
-LOLL GII
 public class Mayor extends javax.swing.JFrame {
 
     /**
